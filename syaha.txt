@@ -1,0 +1,66 @@
+<html>
+<head>
+<title>syahadz</title>
+<link rel="stylesheet" href="syahadz.css">
+<header>
+<div class="logo">
+<a href="logo">syahadz</a>
+</div>
+<div class="nav">
+<a href="home" >home</a>
+<a href="my profile">my profile</a>
+</div>
+
+</header>
+<header>
+</header>
+</head>
+<body>
+<h1><html>
+<head>
+<title>syahadz</title>
+<link rel="stylesheet" href="syahadz.css">
+<header>
+<div class="logo">
+<a href="logo">syahadz</a>
+</div>
+<div class="nav">
+<a href="home" >home</a>
+<a href="my profile">my profile</a>
+</div>
+
+</header>
+<header>
+</header>
+</head>
+<body>
+<h1><html>
+<head>
+<title>syahadz</title>
+<link rel="stylesheet" href="syahaa.css">
+<header>
+<div class="logo">
+<a href="logo">syahadz</a>
+</div>
+<div class="nav">
+<a href="home" >home</a>
+<a href="my profile">my profile</a>
+</div>
+
+</header>
+<header>
+</header>
+</head>
+<body>
+<h1>السياحة في الجزائر</h1>
+<p>الجزائر هي أكبر بلدان أفريقيا من حيث المساحة والبلد الأكبر في الرتبة 10 عالميا من ناحية المساحة الكليّة، وتقع في شمال أفريقيا، تعتبر الصحراء الجزء الأكبر منها وتتخللها الهضاب والتلال شمالاً وصولاً إلى البحر المتوسط بساحل يبلغ طوله 1,200 كم، بين الرمل تنهض القمم الخضراء إلى ذرى شاهقة تطال الغيم وتطل على زرقة مياه المتوسط شمالا ونقاء كثبان الصحراء جنوبا، في ما تبسط النخلة المعطاء سعفاتها الخضراء في كل اتجاه لتكتب بمداد الجمال والعراقة والشموخ اسم الجزائر.
+
+مساحة شاسعة تمتد بين شطآن البحر الأبيض المتوسط شمالا وأعماق الصحراء الكبرى جنوبا، زاخرة بثروات من المقاصد السياحية المتنوعة، فإن شئت بحرا فأمامك نحو 1200 كم من الشواطئ الجميلة النظيفة ذات الشمس والهواء والطقس المتوسطي المعتدل، وإن شئت الصحراء ففيها امتداد لا ينتهي وبيئة ساحرة يمزج فيها الإنسان أصالة تقاليده وتراثه مع صدق وفادته وترحيبه.
+
+أما الجبال والمرتفعات الجزائرية ففيها ما يشتهي الراغب في التمتع بجمال الطبيعة أو المحب لهواية الصيد أو التخييم في الغابات أو لهواة التماوالج على الثلج الأبيض في مرتفعات الشمال أو على الرمل الأصفر الناعم في الجنوب الصحراوي.</p>
+</body>
+</html></h1>
+</body>
+</html></h1>
+</body>
+</html>
