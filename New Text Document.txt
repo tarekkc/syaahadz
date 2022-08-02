@@ -1,0 +1,17 @@
+<html>
+<head>
+<link rel="stylesheet" src="home.css">
+<header>
+<img class="fanak" src="R.png">
+<a class="syahadz" href="syahadz">SYAHAADZ</a>
+<div class="navi">
+<a class="home" href="home">?????? ????????</a> 
+<a class="cantact" href="home">???? ???</a>
+<a href="profile"> ????? ??????</a>
+</div>
+</head>
+<body>
+<h1>مرحبا بكم</h1>
+<img class="sahra2" src="sahra2">
+</body>
+</html>
